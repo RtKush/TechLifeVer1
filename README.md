@@ -1,4 +1,14 @@
-# 🚀 TechLife1 — Internship & Event Platform
+<img width="1920" height="1080" alt="Screenshot (785)" src="https://github.com/user-attachments/assets/1cbae240-fd6a-443d-88ba-cd0059c7a150" />
+<img width="1750" height="911" alt="Screenshot 2025-07-22 005820" src="https://github.com/user-attachments/assets/5b4e8692-4614-4edf-8ee2-fec3e5fb5527" />
+<img width="1920" height="1080" alt="Screenshot (787)" src="https://github.com/user-attachments/assets/6748842f-9a58-45be-a69c-61cebed9819d" />
+<img width="1920" height="1080" alt="Screenshot (821)" src="https://github.com/user-attachments/assets/54836f1b-eab1-4d6c-891f-862efc67bead" />
+<img width="1920" height="1080" alt="Screenshot (778)" src="https://github.com/user-attachments/assets/51ed36c9-67c8-4fc2-86dd-459f18cae921" />
+<img width="1920" height="1080" alt="Screenshot (788)" src="https://github.com/user-attachments/assets/fb30daaf-7603-4911-9ba3-ee543dd2c134" />
+
+
+
+
+# 🚀 TechLife - Blogging Webside
 
 A modern platform built with **Next.js 15**, **TypeScript**, **Tailwind CSS**, **Redux Toolkit**, and **MongoDB** to manage internships, events, and student applications.
 
@@ -51,14 +61,6 @@ npm run dev
 - ✅ Modular blog card components
 - ✅ Comment section placeholder included
 - ✅ Public read access for all blogs
-
-### 📹 Reels System
-
-- ✅ Reels feed page: /reels
-- ✅ Add reel page for authenticated users: /add-reel
-- ✅ ImageKit integration for reel video uploads
-- ✅ Paginated API endpoint for reels
-- ✅ Reels are publicly viewable
 
 ### 📡 API & State Management
 
